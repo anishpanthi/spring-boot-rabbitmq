@@ -1,0 +1,4 @@
+spring:
+  rabbitmq:
+    topic-exchange-name: app-exchange
+    queue-name: app-queue
